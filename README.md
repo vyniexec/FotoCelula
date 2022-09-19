@@ -11,5 +11,5 @@
 
 |[Esquemático](https://www.multisim.com/content/kqxMVkVac8BRQsgnxwK3Xr/fotocelula/open/)|
 |:---:|
-|![Esquemático](https://github.com/vyniexec/FotoCelula/blob/main/fotocelula-schematic.png)|
+|![Esquemático](https://github.com/vyniexec/FotoCelula/blob/main/esquematico.png)|
 |[Author by: Vivian](https://github.com/vivianriva)|
