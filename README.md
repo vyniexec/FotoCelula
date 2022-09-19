@@ -8,3 +8,5 @@
   * MultiSim
 * PCB or Layout
 * 3D
+
+Equipe
