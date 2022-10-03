@@ -25,3 +25,12 @@
 |![Simulção](https://github.com/vyniexec/FotoCelula/blob/main/esquematico.png)|
 |[Author by: Vivian](https://github.com/vivianriva)|
 
+|[Figura 3 - Layout]|
+|:---:|
+|![Layout](https://github.com/vyniexec/FotoCelula/blob/main/layout.PNG)|
+|[Author by: Vivian](https://github.com/vivianriva)|
+
+|[Figura 4 - 3D]|
+|:---:|
+|![3d](https://github.com/vyniexec/FotoCelula/blob/main/3d.png)|
+|[Author by: Vivian](https://github.com/vivianriva)|
