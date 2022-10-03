@@ -28,9 +28,9 @@
 |[Figura 3 - Layout]|
 |:---:|
 |![Layout](https://github.com/vyniexec/FotoCelula/blob/main/layout.PNG)|
-|[Author by: Vivian](https://github.com/kauapardinho)|
+|[Author by: Kauã](https://github.com/kauapardinho)|
 
 |[Figura 4 - 3D]|
 |:---:|
 |![3d](https://github.com/vyniexec/FotoCelula/blob/main/3d.png)|
-|[Author by: Vivian](https://github.com/Sandro693)|
+|[Author by: Sandro](https://github.com/Sandro693)|
