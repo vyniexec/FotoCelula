@@ -10,27 +10,18 @@
 * 3D
 
 
-#
-
-|[Figura 1 - Esquemático](https://www.multisim.com/content/kqxMVkVac8BRQsgnxwK3Xr/fotocelula/open/)|
-|:---:|
-|![Esquemático](https://github.com/vyniexec/FotoCelula/blob/main/esquematico.png)|
-|[Author by: Vivian](https://github.com/vivianriva)|
-
-#
-
 ## Para a simulação, foi usado um software gratuito chamado MultiSim, pelo fato do mesmo ser gratuito, tivemos um problema de ausência de componentes por isso na figura 1, aonde está presente a imagem da simulação foi usado um trimpot(R2) ao invés do LDR
-|[Figura 2 - Simulção](https://www.multisim.com/content/kqxMVkVac8BRQsgnxwK3Xr/fotocelula/open/)|
+|[Figura 1 - Esquemático / Simulção](https://www.multisim.com/content/kqxMVkVac8BRQsgnxwK3Xr/fotocelula/open/)|
 |:---:|
 |![Simulção](https://github.com/vyniexec/FotoCelula/blob/main/esquematico.png)|
 |[Author by: Vivian](https://github.com/vivianriva)|
 
-|[Figura 3 - Layout]|
+|[Figura 2 - Layout]|
 |:---:|
 |![Layout](https://github.com/vyniexec/FotoCelula/blob/main/layout.PNG)|
 |[Author by: Kauã](https://github.com/kauapardinho)|
 
-|[Figura 4 - 3D]|
+|[Figura 3 - 3D]|
 |:---:|
 |![3d](https://github.com/vyniexec/FotoCelula/blob/main/3d.png)|
 |[Author by: Sandro](https://github.com/Sandro693)|
